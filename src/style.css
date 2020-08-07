@@ -1,0 +1,25 @@
+html, body {
+	font: 14px/1.21 'Helvetica Neue', arial, sans-serif;
+	font-weight: 400;
+	margin: 0;
+}
+
+#eyes {
+	width: 100vw;
+	height: 100vh;
+	display: block;
+	background-color: #aaa;
+}
+
+.eye1 {
+	fill: white;
+	stroke: black;
+	stroke-width: 3px;
+}
+.eye2 {
+	stroke: black;
+	stroke-width: 1px;
+}
+.eye3 {
+	fill: black;
+}
